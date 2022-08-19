@@ -6,8 +6,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="generator" content="Owaschool Teleproptor"> 
 <title>Owaschool Teleproptor</title>
-<link rel="stylesheet" type='text/css' href="./css/style.css">
-<script src="./js/jquery.min.js"> </script> 
+<link rel="stylesheet" type='text/css' href="./style.css">
+<script src="./jquery.min.js"> </script> 
 </head>
 <body> 
 
@@ -62,9 +62,9 @@
 
 
 
-<script src="./js/docxtemplater.js"> </script> 
-<script src="./js/jszip.js"> </script> 
-<script src="./js/readscript.js"> </script>  
+<script src="./docxtemplater.js"> </script> 
+<script src="./jszip.js"> </script> 
+<script src="./readscript.js"> </script>  
 
 
 </body>
