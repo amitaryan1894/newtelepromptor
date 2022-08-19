@@ -5,13 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="generator" content="Owaschool Teleproptor"> 
 <title>Owaschool Teleproptor</title>
-<link rel="stylesheet" type='text/css' href="./css/style.css">
+<link rel="stylesheet" type='text/css' href="./style.css">
 </head>
 <body>
-<script src="./js/jquery.min.js"> </script> 
-<script src="./js/popper.min.js"> </script> 
-<script src="./js/mustache.min.js"> </script> 
-<script src="./js/recordscript.js"> </script>   
+<script src="./jquery.min.js"> </script> 
+<script src="./popper.min.js"> </script> 
+<script src="./mustache.min.js"> </script> 
+<script src="./recordscript.js"> </script>   
 
 </body>
 </html>
